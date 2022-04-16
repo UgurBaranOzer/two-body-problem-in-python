@@ -17,3 +17,6 @@ two_body_view.py
 to see the animation. 
 
 
+![Alt Text](https://media.giphy.com/media/rCs4f6HA9rKN04iRJS/giphy.gif)
+
+
